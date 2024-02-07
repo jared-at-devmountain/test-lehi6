@@ -1,1 +1,2 @@
 //mom
+console.log('mom')
